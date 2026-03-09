@@ -1,5 +1,5 @@
 nginx
-geoserver:2.20.1
+geoserver:2.21.5
 alpine
 postgres:13.12
 postgis/postgis:13-3.3
